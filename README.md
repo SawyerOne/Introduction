@@ -1,17 +1,5 @@
 ### Hi there, I'm Safe - aka SaywerOne 👋
-I do CTF's and its something i enjoy doing
-
-
-
-
-
-
-
-Writeups
-
-
-
- 
+I do CTF's and its something i enjoy doing writeups for them and thats about it really
 
 some music 
 
